@@ -1,0 +1,31 @@
+{
+    "schema_version": "3.0.0",
+    "packages": [
+        {
+            "name": "Color Scheme - Two",
+            "description": "Color scheme based on Atom's One",
+            "details": "https://github.com/bitst0rm-pub/Color-Scheme-Two",
+            "author": "bitst0rm",
+            "labels": ["color scheme"],
+            "releases": [
+                {
+                    "sublime_text": ">=3170",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "Formatter",
+            "description": "A Sublime Text 3 plugin to beautify and minify source code",
+            "details": "https://github.com/bitst0rm-pub/Formatter",
+            "author": "bitst0rm",
+            "labels": ["formatting", "beautify", "minify", "css", "scss", "sass", "less", "html", "xml", "javascript", "json", "markdown", "perl", "php", "python", "ruby", "bash", "c", "c++", "c#", "d", "objc", "java"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        }
+    ]
+}
